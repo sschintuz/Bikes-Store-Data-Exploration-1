@@ -11,6 +11,7 @@ The dataset was created for the purpose of exploratory data analysis and databas
 STRUCTURE OF THE TABLES
 
 Products Table
+
 product_id: Unique identifier for each bike
 product_name: The name of the bike
 brand_id: The ID of the brand associated with the bike
@@ -22,21 +23,27 @@ Categories Table
 
 category_id: Unique identifier for each category
 category_name: The name of the category
+
 Brands Table
 
 brand_id: Unique identifier for each brand
 brand_name: The name of the brand
+
 
 SQL FILE
 
 The SQL file in this repository contains various SQL queries used to explore and manipulate the data in the database. The queries include:
 
 Selecting specific columns from one or more tables
+
 Filtering the data based on specific conditions
+
 Grouping the data and aggregating it based on certain columns
+
 Joining the tables to combine data from multiple tables
 
 RESULTS
+
 The results of the exploration show insights into the bikes, brands, and categories in the store. The data can be used to answer questions such as:
 
 > Which brands have the most bikes in a specific category?
@@ -47,10 +54,13 @@ FUTURE WORK
 
 In the future, additional data could be added to the tables and further exploration could be done to gain more insights into the data. Additionally, the database could be used to support a larger application or analysis project for the bike store.
 
+
 INSTRUCTIONS
 
 Make sure you have a SQL database management system installed on your computer.
+
 Create an empty database and import the SQL file into it.
+
 Connect to the database using your SQL client and run the queries.
 
 
