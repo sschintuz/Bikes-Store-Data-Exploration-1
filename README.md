@@ -26,12 +26,13 @@ model_year: The year the bike was manufactured
 
 list_price: The price of the bike
 
+
 Categories Table
 
 category_id: Unique identifier for each category
 
-
 category_name: The name of the category
+
 
 Brands Table
 
@@ -43,13 +44,13 @@ SQL FILE
 
 The SQL file in this repository contains various SQL queries used to explore and manipulate the data in the database. The queries include:
 
-Selecting specific columns from one or more tables
+> Selecting specific columns from one or more tables
 
-Filtering the data based on specific conditions
+> Filtering the data based on specific conditions
 
-Grouping the data and aggregating it based on certain columns
+> Grouping the data and aggregating it based on certain columns
 
-Joining the tables to combine data from multiple tables
+> Joining the tables to combine data from multiple tables
 
 RESULTS
 
