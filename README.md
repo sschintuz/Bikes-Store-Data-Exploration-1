@@ -1,4 +1,4 @@
-# Bikes-Store-Data-Exploration
+# Bikesshowroom-Data-Exploration
 
 INTRODUCTION
 
